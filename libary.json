@@ -1,0 +1,13 @@
+{
+  "name": "tlsf",
+  "version": "1.0.0",
+  "keywords": "tlsf, teensy",
+  "description": "TLSF added on pio",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FogozIV/tlsf-pio"
+  },
+  "frameworks": "arduino",
+  "platforms": "teensy",
+  "board": "teensy41"
+}
